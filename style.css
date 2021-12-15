@@ -7,6 +7,7 @@
 html,
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: cadetblue;
 }
 
 #app {
@@ -18,7 +19,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: aquamarine;
 }
 
 h1,
@@ -47,8 +47,7 @@ img {
 button {
   cursor: pointer;
   display: inline-block;
-  background: #333;
-  color: white;
+  color: #333;
   font-size: 18px;
   border: 0;
   padding: 1rem 1.5rem;
